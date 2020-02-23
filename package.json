@@ -36,7 +36,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "web": "yarn start --port ${PORT:3000}"
+    "web": "yarn start --port ${PORT:8000}"
   },
   "repository": {
     "type": "git",
